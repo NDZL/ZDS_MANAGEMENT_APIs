@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="com.squareup.okhttp3:okhttp:3.7.0" level="project" />
     <orderEntry type="library" name="org.json:json:20210307" level="project" />
+    <orderEntry type="library" name="com.konghq:unirest-java:4.0.0-RC1" level="project" />
   </component>
 </module>
